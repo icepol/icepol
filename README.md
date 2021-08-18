@@ -1,16 +1,16 @@
-### Hi there 👋
+### Indie / hobbie game developer
 
-<!--
-**icepol/icepol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🕹️ http://pixelook.io - my [itch.io](http://pixelook.io) page  
+🚀 http://kneego.org - moblile games i've mage  
+👾 http://bitbucket.org/pavelkoci/ - some of the project's source codes  
+🎨 http://icepol.net - my personal page, photo galleries
 
-Here are some ideas to get you started:
+### Python developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💪 Working for http://vacuumlabs.com on [twisto.cz](http://www.twisto.cz) and [kiwi.com](http://www.kiwi.com) projects.
+
+### Follow me on
+
+http://twitter.com/pavelkoci  
+https://www.facebook.com/pixelook.games/  
+http://instagram.com/pavelkoci/  
