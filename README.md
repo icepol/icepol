@@ -1,4 +1,4 @@
-### Indie / hobbie game developer
+### Indie / hobby game developer
 
 🕹️ http://pixelook.io - my [itch.io](http://pixelook.io) page  
 🚀 http://kneego.org - moblile games i've mage  
